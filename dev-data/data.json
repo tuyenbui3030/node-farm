@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "productName": "Trái bơ",
+    "image": "🥑",
+    "from": "Việt Nam",
+    "nutrients": "Vitamin B, Vitamin K",
+    "quantity": "4 🥑",
+    "price": "6.50",
+    "organic": true,
+    "description": "Bơ là một loại cây cận nhiệt đới có nguồn gốc từ México và Trung Mỹ, được phân loại thực vật có hoa, hai lá mầm, họ Lauraceae. Con người biết ăn trái cây bơ từ xưa, bằng chứng là người ta tìm thấy bình nước hình trái bơ tại đô thành Chan Chan trước thời đại Inca."
+  },
+  {
+    "id": 1,
+    "productName": "Pho mát",
+    "image": "🧀",
+    "from": "Hoa Kì",
+    "nutrients": "Vitamin A, Calcium",
+    "quantity": "250g",
+    "price": "5.00",
+    "organic": false,
+    "description": "Pho mát hay còn gọi là phô mai hoặc cũng có khi là phó mát, phổ mách hay phôma hay cheese là thực phẩm làm bằng cách kết đông và lên men sữa của bò, trâu, dê, cừu, ngựa, tê giác hoặc quý hiếm hơn, từ sữa thú vật khác với mục đích bảo quản chế phẩm sữa để có thể dùng quanh năm."
+  },
+  {
+    "id": 2,
+    "productName": "Súp lơ xanh",
+    "image": "🥦",
+    "from": "Anh",
+    "nutrients": "Vitamin C, Vitamin K",
+    "quantity": "3 🥦",
+    "price": "5.50",
+    "organic": true,
+    "description": "Súp lơ xanh được đánh giá là có hàm lượng dinh dưỡng rất cao, có khả năng chống lại rất nhiều bệnh, đặc biệt là bệnh ung thư. Thế nhưng, hầu hết các bà nội trợ đều mắc phải sai lầm khi chế biến khiến loại rau này, khiến nó mất đi những tác dụng tuyệt vời nhất. Súp lơ xanh có giá trị dinh dưỡng cao hơn súp lơ trắng, đồng thời nó cũng là loại rau có tác dụng chống oxy hóa, ngăn chặn lão hóa và sự phát triển của các tế bào ung thư rất tốt."
+  },
+  {
+    "id": 3,
+    "productName": "Cà rốt",
+    "image": "🥕",
+    "from": "Pháp",
+    "nutrients": "Vitamin A, Vitamin K",
+    "quantity": "20 🥕",
+    "price": "3.00",
+    "organic": true,
+    "description": "Cà rốt là một loại rau củ tốt cho sức khỏe, với độ giòn, vị ngon và chứa rất nhiều beta carotene, chất xơ, vitamin K1, kali cũng như chất chống oxy hóa. Ăn cà rốt rất thích hợp cho việc giảm cân, giúp giảm cholesterol, cải thiện sức khỏe mắt, thậm chí là giảm nguy cơ ung thư"
+  },
+  {
+    "id": 4,
+    "productName": "Trái bắp",
+    "image": "🌽",
+    "from": "Canada",
+    "nutrients": "Vitamin C, Magnesium",
+    "quantity": "2 🌽",
+    "price": "2.00",
+    "organic": false,
+    "description": "Ngô, bắp hay bẹ là một loại cây lương thực được thuần canh tại khu vực Trung Mỹ và sau đó lan tỏa ra khắp châu Mỹ. Ngô lan tỏa ra phần còn lại của thế giới sau khi có tiếp xúc của người châu Âu với châu Mỹ vào cuối thế kỷ 15, đầu thế kỷ 16. Ngô là cây lương thực được gieo trồng nhiều nhất tại châu Mỹ."
+  }
+]
