@@ -1,57 +1,57 @@
 [
   {
     "id": 0,
-    "productName": "Trái bơ",
+    "productName": "Fresh Avocados",
     "image": "🥑",
-    "from": "Việt Nam",
+    "from": "Spain",
     "nutrients": "Vitamin B, Vitamin K",
     "quantity": "4 🥑",
     "price": "6.50",
     "organic": true,
-    "description": "Bơ là một loại cây cận nhiệt đới có nguồn gốc từ México và Trung Mỹ, được phân loại thực vật có hoa, hai lá mầm, họ Lauraceae. Con người biết ăn trái cây bơ từ xưa, bằng chứng là người ta tìm thấy bình nước hình trái bơ tại đô thành Chan Chan trước thời đại Inca."
+    "description": "A ripe avocado yields to gentle pressure when held in the palm of the hand and squeezed. The fruit is not sweet, but distinctly and subtly flavored, with smooth texture. The avocado is popular in vegetarian cuisine as a substitute for meats in sandwiches and salads because of its high fat content. Generally, avocado is served raw, though some cultivars, including the common 'Hass', can be cooked for a short time without becoming bitter. It is used as the base for the Mexican dip known as guacamole, as well as a spread on corn tortillas or toast, served with spices."
   },
   {
     "id": 1,
-    "productName": "Pho mát",
+    "productName": "Goat and Sheep Cheese",
     "image": "🧀",
-    "from": "Hoa Kì",
+    "from": "Portugal",
     "nutrients": "Vitamin A, Calcium",
     "quantity": "250g",
     "price": "5.00",
     "organic": false,
-    "description": "Pho mát hay còn gọi là phô mai hoặc cũng có khi là phó mát, phổ mách hay phôma hay cheese là thực phẩm làm bằng cách kết đông và lên men sữa của bò, trâu, dê, cừu, ngựa, tê giác hoặc quý hiếm hơn, từ sữa thú vật khác với mục đích bảo quản chế phẩm sữa để có thể dùng quanh năm."
+    "description": "Creamy and distinct in flavor, goat cheese is a dairy product enjoyed around the world. Goat cheese comes in a wide variety of flavors and textures, from soft and spreadable fresh cheese to salty, crumbly aged cheese. Although it’s made using the same coagulation and separation process as cheese made from cow’s milk, goat cheese differs in nutrient content."
   },
   {
     "id": 2,
-    "productName": "Súp lơ xanh",
+    "productName": "Apollo Broccoli",
     "image": "🥦",
-    "from": "Anh",
+    "from": "Portugal",
     "nutrients": "Vitamin C, Vitamin K",
     "quantity": "3 🥦",
     "price": "5.50",
     "organic": true,
-    "description": "Súp lơ xanh được đánh giá là có hàm lượng dinh dưỡng rất cao, có khả năng chống lại rất nhiều bệnh, đặc biệt là bệnh ung thư. Thế nhưng, hầu hết các bà nội trợ đều mắc phải sai lầm khi chế biến khiến loại rau này, khiến nó mất đi những tác dụng tuyệt vời nhất. Súp lơ xanh có giá trị dinh dưỡng cao hơn súp lơ trắng, đồng thời nó cũng là loại rau có tác dụng chống oxy hóa, ngăn chặn lão hóa và sự phát triển của các tế bào ung thư rất tốt."
+    "description": "Broccoli is known to be a hearty and tasty vegetable which is rich in dozens of nutrients. It is said to pack the most nutritional punch of any vegetable. When we think about green vegetables to include in our diet, broccoli is one of the foremost veggies to come to our mind. Broccoli is a cruciferous vegetable and part of the cabbage family, which includes vegetables such as Brussel sprouts and kale. Although the tastes are different, broccoli and these other vegetables are from the same family."
   },
   {
     "id": 3,
-    "productName": "Cà rốt",
+    "productName": "Baby Carrots",
     "image": "🥕",
-    "from": "Pháp",
+    "from": "France",
     "nutrients": "Vitamin A, Vitamin K",
     "quantity": "20 🥕",
     "price": "3.00",
     "organic": true,
-    "description": "Cà rốt là một loại rau củ tốt cho sức khỏe, với độ giòn, vị ngon và chứa rất nhiều beta carotene, chất xơ, vitamin K1, kali cũng như chất chống oxy hóa. Ăn cà rốt rất thích hợp cho việc giảm cân, giúp giảm cholesterol, cải thiện sức khỏe mắt, thậm chí là giảm nguy cơ ung thư"
+    "description": "The carrot is a root vegetable that is often claimed to be the perfect health food. It is crunchy, tasty and highly nutritious. Carrots are a particularly good source of beta-carotene, fiber, vitamin K, potassium and antioxidants. Carrots have a number of health benefits. They are a weight loss friendly food and have been linked to lower cholesterol levels and improved eye health."
   },
   {
     "id": 4,
-    "productName": "Trái bắp",
+    "productName": "Sweet Corncobs",
     "image": "🌽",
-    "from": "Canada",
+    "from": "Germany",
     "nutrients": "Vitamin C, Magnesium",
     "quantity": "2 🌽",
     "price": "2.00",
     "organic": false,
-    "description": "Ngô, bắp hay bẹ là một loại cây lương thực được thuần canh tại khu vực Trung Mỹ và sau đó lan tỏa ra khắp châu Mỹ. Ngô lan tỏa ra phần còn lại của thế giới sau khi có tiếp xúc của người châu Âu với châu Mỹ vào cuối thế kỷ 15, đầu thế kỷ 16. Ngô là cây lương thực được gieo trồng nhiều nhất tại châu Mỹ."
+    "description": "Also known as maize, corn is one of the most popular cereal grains in the world. Popcorn and sweet corn are commonly eaten varieties, but refined corn products are also widely consumed, frequently as ingredients in foods. These include tortillas, tortilla chips, polenta, cornmeal, corn flour, corn syrup, and corn oil. Whole-grain corn is as healthy as any cereal grain, rich in fiber and many vitamins, minerals, and antioxidants."
   }
 ]
